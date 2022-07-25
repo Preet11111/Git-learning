@@ -11,4 +11,4 @@ taglib uri="http://liferay.com/tld/ui" prefix="liferay-ui" %>
 
 <portlet:defineObjects />
   
-  hello
+  hello preet
